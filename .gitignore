@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# Arquivos de build
+build/
+dist/
+
+# Logs e saídas
+logs/
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de configuração
+.DS_Store
+.env
